@@ -1,0 +1,6 @@
+Sabin Phuyal Grades
+
+Maths = 90
+Computer = 95
+English = 100
+Science = 65
